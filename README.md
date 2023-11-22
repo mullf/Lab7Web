@@ -29,7 +29,7 @@
 
     ```
 
-    ![img](img/gambar1.png)
+    ![prak7_php1](https://github.com/mullf/Lab7Web/assets/115521049/c1ad12f2-589e-424e-a614-65e0ecc2465f)
 
 4. Variable PHP
 
@@ -42,7 +42,7 @@
         ?>
     ```
 
-    ![img](img/gambar2.png)
+    ![prak7_php2](https://github.com/mullf/Lab7Web/assets/115521049/bfc27267-a590-4d74-a449-a3532c585156)
 
 5. Predefine Variable $_GET
 
@@ -53,7 +53,7 @@
 
     ```
 
-    ![img](img/gambar3.png)
+    ![prak7_php12](https://github.com/mullf/Lab7Web/assets/115521049/961123bd-3bcb-4bf3-94fa-fc04332780ae))
 
 6. Membuat Form
 
@@ -79,7 +79,7 @@
 
     ```
 
-    ![img](img/gambar4.png)
+    ![prak7_php3](https://github.com/mullf/Lab7Web/assets/115521049/5f27c8b2-e1fe-43f0-b517-72d92d250634)
 
 7. Operator
 
@@ -94,7 +94,7 @@
 
     ```
 
-    ![img](img/operator.png)
+    ![prak7_php4](https://github.com/mullf/Lab7Web/assets/115521049/20e522b2-4c71-4eaa-95e6-66a314b9175e)
 
 8. Kondisi IF
 
@@ -111,7 +111,7 @@
         ?>
     ```
 
-    ![img](img/if.png)
+    ![prak7_php5](https://github.com/mullf/Lab7Web/assets/115521049/61dd4e34-4e2a-42e0-9d4d-6828923faeb6)
 
 9. Kondisi Switch
 
@@ -133,7 +133,7 @@
         ?>
     ```
 
-    ![img](img/swicth.png)
+    ![prak7_php6](https://github.com/mullf/Lab7Web/assets/115521049/31670c3c-74ca-4307-b03d-585104b5c441)
 
 10. Perulangan for
 
@@ -150,7 +150,7 @@
         ?>
     ```
 
-    ![img](img/gambar5.png)
+    ![prak7_php7](https://github.com/mullf/Lab7Web/assets/115521049/bed1b95a-5693-4949-bcbe-f31990390def)
 
 11. Perulangan while
 
@@ -165,7 +165,7 @@
         ?>
     ```
 
-    ![img](img/gambar6.png)
+    ![prak7_php8](https://github.com/mullf/Lab7Web/assets/115521049/729f5acc-4c94-40da-86c8-6440138e8f50)
 
 12. Perulangan dowhile
 
@@ -180,7 +180,7 @@
         ?>
     ```
 
-    ![img](img/gambar7.png)
+    ![prak7_php9](https://github.com/mullf/Lab7Web/assets/115521049/3bd8efd6-3195-497b-b44d-37a49099b9c6)
 
 ## Pertanyaan dan Tugas
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan 
@@ -269,3 +269,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </html>
 
 ```
+
+## Output
+
+![prak7_php11](https://github.com/mullf/Lab7Web/assets/115521049/7dea9ccc-79c7-42bd-8108-17a70f5114b9)
+
+![prak7_php13](https://github.com/mullf/Lab7Web/assets/115521049/20206310-8066-41f8-bea3-7280055618a6)
